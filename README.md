@@ -18,16 +18,16 @@
 - **Agent Performance Metrics** – Individual agent calls, reach, deals closed, and deal value.
   
 ## Business Questions Answered by the Dashboard
-**1**. Which sales agents are the top performers based on deal value and deals closed?
-**2**. How many calls are made and how many successfully reach customers?
-**3**. What is the conversion rate from calls to closed deals?
-**4**. How does sales performance change across different months?
-**5**. Which months generate the highest total sales revenue?
-**6**. What is the average call duration for sales agents?
-**7**. How frequently do call drops occur during customer interactions?
-**8**. Which agents contribute the most to total sales value?
-**9**. How does agent productivity vary in terms of calls made and deals closed?
-**10**. What operational factors (call duration, drop rate) may affect sales performance?
+1. Which sales agents are the top performers based on deal value and deals closed?
+2. How many calls are made and how many successfully reach customers?
+3. What is the conversion rate from calls to closed deals?
+4. How does sales performance change across different months?
+5. Which months generate the highest total sales revenue?
+6. What is the average call duration for sales agents?
+7. How frequently do call drops occur during customer interactions?
+8. Which agents contribute the most to total sales value?
+9. How does agent productivity vary in terms of calls made and deals closed?
+10. What operational factors (call duration, drop rate) may affect sales performance?
 
 ## Dashboard link
 - <a href="https://github.com/Prajakta19-A/Evaluating_Sales_Agent_Dashboard/blob/main/Sales_Dashboard_Evaluating_sales_Agent_Performance.xlsx"> View Dashboard</a>
