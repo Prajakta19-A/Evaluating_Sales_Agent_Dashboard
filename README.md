@@ -18,36 +18,36 @@
 - **Agent Performance Metrics** – Individual agent calls, reach, deals closed, and deal value.
   
 ## Business Questions Answered by the Dashboard
-1.Which sales agents are the top performers based on deal value and deals closed?
-2.How many calls are made and how many successfully reach customers?
-3.What is the conversion rate from calls to closed deals?
-4.How does sales performance change across different months?
-5.Which months generate the highest total sales revenue?
-6.What is the average call duration for sales agents?
-7.How frequently do call drops occur during customer interactions?
-8.Which agents contribute the most to total sales value?
-9.How does agent productivity vary in terms of calls made and deals closed?
-10.What operational factors (call duration, drop rate) may affect sales performance?
+1. Which sales agents are the top performers based on deal value and deals closed?
+2. How many calls are made and how many successfully reach customers?
+3. What is the conversion rate from calls to closed deals?
+4. How does sales performance change across different months?
+5. Which months generate the highest total sales revenue?
+6. What is the average call duration for sales agents?
+7. How frequently do call drops occur during customer interactions?
+8. Which agents contribute the most to total sales value?
+9. How does agent productivity vary in terms of calls made and deals closed?
+10. What operational factors (call duration, drop rate) may affect sales performance?
 
 ## Dashboard link
 - <a href="https://github.com/Prajakta19-A/Evaluating_Sales_Agent_Dashboard/blob/main/Sales_Dashboard_Evaluating_sales_Agent_Performance.xlsx"> View Dashboard</a>
 
 ## Process
 - Collected and organized sales agent performance data to analyze key metrics.
-- Cleaned and structured the dataset in Excel and created calculations for KPIs such as Total Calls, Calls Reached, Deals Closed, and Deal Value.
-- Built an interactive dashboard using Pivot Tables, charts, and slicers to evaluate agent performance, monthly sales trends, average call duration, and call drop rate.
+- Cleaned and structured the dataset in Excel and created calculations for KPIs such as Total Calls, Calls Reached, Deals Closed, and       Deal Value.
+- Built an interactive dashboard using Pivot Tables, charts, and slicers to evaluate agent performance, monthly sales trends, average       call duration, and call drop rate.
 - The dashboard helps identify top-performing agents and overall sales efficiency for better decision-makin
 
 ## Dashboard Image
 <img width="1077" height="538" alt="Evaluating_Sales_report_screenshort" src="https://github.com/user-attachments/assets/50f3c6ca-136f-4963-a43e-f7e36fa2aca5" />
 
 ## Project Insight
-1.The sales team made 660 total calls, out of which 71 customers were successfully reached, resulting in 92 deals closed and generating     $49,073 in total sales value.
-2.Analysis of sales agent KPIs shows that some agents contribute significantly higher deal values, indicating differences in individual     sales performance and productivity.
-3.The monthly sales trend shows fluctuations throughout the year, with some months performing better than others, helping management        identify high-performing periods.
-4.The average call duration remains relatively consistent, indicating a stable sales communication process with customers.
-5.The call drop rate varies across months, which may impact customer interaction quality and overall sales conversion.
-6.Comparing calls made, reach, and deals closed helps evaluate the efficiency of the sales pipeline and identify opportunities to improve   conversion rates.
+1. The sales team made 660 total calls, out of which 71 customers were successfully reached, resulting in 92 deals closed and generating     $49,073 in total sales value.
+2. Analysis of sales agent KPIs shows that some agents contribute significantly higher deal values, indicating differences in individual     sales performance and productivity.
+3. The monthly sales trend shows fluctuations throughout the year, with some months performing better than others, helping management        identify high-performing periods.
+4. The average call duration remains relatively consistent, indicating a stable sales communication process with customers.
+5. The call drop rate varies across months, which may impact customer interaction quality and overall sales conversion.
+6. Comparing calls made, reach, and deals closed helps evaluate the efficiency of the sales pipeline and identify opportunities to improve   conversion rates.
 
 ## Conclusion
 - The Sales Agent Performance Dashboard provides a comprehensive analysis of sales team activities and results.
